@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on FreezeOS https://freezeos.org<br><br>I know HTML, CSS, JS, x86 Assembly line, C++, C#, Rust, Golang, Lua.
+Im currently working on FreezeOS https://freezeos.org<br><br>
 
 
 ## 🌐 Socials:
